@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Restaurant
+comment0.text=\n\ Sets\ up\ The\ Restaurant\ Simulation\ \n\ and\ runs\ one\ day\ operations\n\ @author\ Ali\ Sultan\n
+comment1.params=CD
+comment1.target=void\ FillPQueue(CollectData)
+comment1.text=\n\ sets\ up\ a\ priority\ queue\ where\ every\ customer\ that\ arrives\ is\ recorded\ as\ an\ arrival\ event\n\ @param\ CollectedDtata\ CD\ to\ use\ the\ initial\ java\ api\ linked\ list\ with\ all\ the\ customers\n
+comment2.params=numCashiers\ seed
+comment2.target=java.lang.String\ obtainInfo(int,\ long)
+comment2.text=\n\ method\ runs\ the\ shop\ simulation\ one\ time\ for\ one\ day\ and\ \n\ @return\ a\ string\ of\ all\ the\ information\ that\ was\ recored\ like\ the\ OverFlow\ rate,\ AverageWaitTime,\ Maximum\ waiting\ time,\ and\ the\ total\ profit\ collected\ in\ a\ day\n
+comment3.params=numCashiers\ seed
+comment3.target=void\ runSimOneDay(int,\ long)
+comment3.text=\n\ method\ runs\ the\ simulation\ for\ one\ day\n\ @param\ int\ numberofCashiers\ that\ were\ working\ on\ the\ particular\ day\n
+comment4.params=numCashiers\ CD
+comment4.target=int\ exceptionCase(int,\ CollectData)
+comment4.text=\n\ Exception\ Case\ to\ calculate\ time\ of\ \n\ @param\ numCahiers,\ DataColletor\n\ @retun\ the\ int\ which\ is\ the\ time\ of\ wait\ for\ the\ first\ customer\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\n\ Customer\ Class\ for\ Customer\ Objects\n\ @author\ Ali\ Sultan\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=ArrivalTime\ ServeTime\ Profit
+comment1.target=Customer(int,\ int,\ float)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Customer\n\ @param\ int\ ArrivalTime,\ int\ ServeTime,\ float\ Profit\n
+comment2.params=profit
+comment2.target=void\ setProfit(float)
+comment2.text=\n\ Used\ my\ Cashiers\ to\ set\ profit\ of\ serving\ a\ particular\ cusotmer\n\ @param\ float\ profit\n
+comment3.params=sTime
+comment3.target=void\ setServeTime(int)
+comment3.text=\n\ Used\ my\ Cashiers\ to\ set\ the\ time\ of\ serving\ a\ particular\ cusotmer\n\ @param\ float\ sTime\n
+numComments=4

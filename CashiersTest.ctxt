@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CashiersTest
+comment0.text=\n\ Testing\ the\ Cashiers\ Class\n\ @author\ Ali\ Sultan\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testassignCashiers()
+comment1.text=\n\ Assigning\ Cashiers\ test\n\ Normal\n
+comment2.params=
+comment2.target=void\ testassignCashiers1()
+comment2.text=\n\ Assigning\ Cashiers\ test\n\ Boundary\n
+comment3.params=
+comment3.target=void\ testfreeCashiers()
+comment3.text=\n\ Assigning\ Cashiers\ test\n\ Normal\n
+comment4.params=
+comment4.target=void\ testCashierAvailable()
+comment4.text=\n\ Test\ to\ see\ if\ the\ cashier\ is\ available\n\ Normal\n
+comment5.params=
+comment5.target=void\ testCashierAvailable2()
+comment5.text=\n\ Boundary\ to\ see\ if\ the\ cashier\ is\ available\n\ Normal\n
+numComments=6

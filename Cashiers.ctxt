@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cashiers
+comment0.text=\n\ Cashiers\ class\ to\ keep\ track\ of\ all\ the\ cashiers\ and\ use\ them\ to\ assign\ profit\ and\ wait\ time\ to\ the\ customers\ that\ they\ serve\n\ @author\ Ali\ Sultan\n
+comment1.params=numCashiers
+comment1.target=Cashiers(int)
+comment1.text=\n\ constructor\ for\ the\ cashiers\ class\ \n\ @\ int\ numCashiers\ is\ used\ to\ initialise\ based\ on\ how\ many\ cashiers\ are\ employed\n
+comment2.params=A\ CD\ seed
+comment2.target=void\ assignCustomer(Customer,\ CollectData,\ long)
+comment2.text=\n\ assignCustomer\ method\ is\ used\ when\ a\ customer\ arrives\ to\ a\ free\ cashier\n\ @param\ Customer\ A\ who\ arrives,\ CollectData\ CD\ \ \n
+comment3.params=
+comment3.target=boolean\ cashierAvailable()
+comment3.text=\n\ check\ if\ a\ cashier\ is\ free\ to\ serve\ a\ customer\n
+comment4.params=
+comment4.target=void\ freeCashier()
+comment4.text=\n\ free\ a\ cashier\ once\ a\ customer\ has\ been\ served\n
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TestClassCollectData
+comment1.params=
+comment1.target=void\ testRecordProfitBoundsLow()
+comment1.text=\n\ Normal\ Testing\ Case\ for\ recording\ Profit\ Bounds\ from\ the\ input\ file\n
+comment2.params=
+comment2.target=void\ testRecordProfitBoundsHigh()
+comment2.text=\n\ Normal\ Testing\ Case\ for\ recording\ Profit\ Bounds\ from\ the\ input\ file\n
+comment3.params=
+comment3.target=void\ testRecordServeBoundsLow()
+comment3.text=\n\ Normal\ Testing\ Case\ for\ recording\ the\ low\ serve\ time\n
+comment4.params=
+comment4.target=void\ testRecordServeBoundsHigh()
+comment4.text=\n\ Normal\ Testing\ Case\ for\ reading\ from\ the\ input\ text\ high\ serve\ time\n
+comment5.params=
+comment5.target=void\ testCustomersArrival()
+comment5.text=\n\ Normal\ Testing\ Case\ for\ reading\ from\ the\ input\ text\ information\ about\ the\ customers\n
+numComments=6

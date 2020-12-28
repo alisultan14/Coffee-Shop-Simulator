@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CustomerTest
+comment0.text=\n\ @author\ \ Ali\ Sultan\n
+comment1.params=
+comment1.target=void\ testSetServeTime()
+comment1.text=\n\ test\ case\ setting\ servetime\n\ Normal\n
+comment2.params=
+comment2.target=void\ testSetProfi1t()
+comment2.text=\n\ test\ case\ setting\ profit\n\ Normal\n
+numComments=3

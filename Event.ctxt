@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\n\ Event\ Class\ to\ keep\ track\ of\ the\ Events\n\ i.e\ Customers\ either\ arriving\ or\ departing\n
+comment1.params=time\ type\ Cstmr
+comment1.target=Event(int,\ int,\ Customer)
+comment1.text=\n\ Custructor\ for\ the\ Event\n\ @param\ int\ time,\ int\ type,\ Customer\ Cstmr\ \n
+comment2.params=rhs
+comment2.target=int\ compareTo(Event)
+comment2.text=\n\ Used\ to\ compare\ one\ event\ to\ another\ based\ on\ what\ time\ they\ occur\n\ @param\ Event\ rhs\n\ @return\ int\ either\ 1,\ 0\ or\ -1\ following\ the\ normal\ convention\ of\ comparing\n
+numComments=3

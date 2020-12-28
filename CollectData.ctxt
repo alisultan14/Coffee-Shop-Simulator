@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CollectData
+comment0.text=\n\ Data\ Collector\ which\ takes\ in\ information\ from\ the\ input\ txt\ file\n\ @author\ Ali\ Sultan\n
+comment1.params=
+comment1.target=void\ CollectData()
+comment1.text=\n\ CollectData\ function\ to\ read\ information\ from\ the\ txt\ file\n
+numComments=2

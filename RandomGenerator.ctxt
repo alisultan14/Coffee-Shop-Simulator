@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RandomGenerator
+comment0.text=\n\ The\ Class\ is\ used\ to\ initialise\ a\ random\ number\ generator\ which\ returns\ 2\ dp\ number\ between\ a\ given\ range\n\ @author\ Ali\ Sultan\n
+comment1.params=Low\ High\ seed
+comment1.target=float\ ReturnTwoDpRandom(java.lang.String,\ java.lang.String,\ long)
+comment1.text=\n\ @return\ float\ \n\ Method\ to\ return\ a\ Two\ Decimal\ Place\ Random\ number\ between\ a\ given\ range\n
+numComments=2
